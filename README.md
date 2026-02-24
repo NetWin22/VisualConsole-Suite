@@ -12,4 +12,6 @@
 
 Thanks for using VisualConsole :)
 
-<img width="1920" height="1080" alt="VisualConsole Test one" src="https://github.com/user-attachments/assets/f0798df0-9a43-4380-907a-6d9f81f6a86b" />
+
+<img width="1920" height="1080" alt="Schermata_20260224_194644" src="https://github.com/user-attachments/assets/9010bc9b-af5d-45ad-9b9b-ebae9a2a3b57" />
+some commands GUIs
